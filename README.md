@@ -6,7 +6,7 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 [![Instagram Badge](https://img.shields.io/badge/-trey.codes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/trey.codes/)](https://instagram.com/trey.codes)
 [![Youtube Badge](https://img.shields.io/badge/-trey.codes-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZPhxIr0rjxwAC5pRYwz4UA)](https://www.youtube.com/channel/UCZPhxIr0rjxwAC5pRYwz4UA)
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-trey.a.hope@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trey.a.hope@gmail.com)](mailto:trey.a.hope@gmail.com)
 
 ## ⚡ Technologies
 
