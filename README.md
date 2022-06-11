@@ -10,15 +10,17 @@ Greetings, and welcome to my Github. I've been doing mobile develpoment for abou
 
 ## ⚡ Technologies
 
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=Stripe)
+![Algolia](https://img.shields.io/badge/-Algolia-black?style=flat-square&logo=Algolia)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Firebase](https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=Firebase)
-
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=Jira)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=trey-a-hope&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trey-a-hope&hide=TeX&layout=compact)
