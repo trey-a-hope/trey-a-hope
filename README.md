@@ -1,6 +1,6 @@
 ## Trey Hope - Flutter Dev
 
-Greetings, and welcome to my Github. I've been doing mobile develpoment for about 5 years now, having published over 7 apps to both the Google Play Store and Apple App Store. Teaching what I know about the awesome Flutter framework is my goal. Feel free to connect with me below.
+Greetings, and welcome to my Github. My primary framework of choice is Flutter; I have published a total of seven apps to both the Google Play Store and Apple App Store. Teaching what I know about the awesome framework is my goal. Feel free to connect with me below.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Trey_Hope-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trey-hope-69a3a774/)](https://www.linkedin.com/in/trey-hope-69a3a774/)
 [![Instagram Badge](https://img.shields.io/badge/-trey.codes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/trey.codes/)](https://instagram.com/trey.codes)
